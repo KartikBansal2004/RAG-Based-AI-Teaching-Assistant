@@ -1,0 +1,82 @@
+{
+    "chunks": [
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 0.0,
+            "end": 5.0,
+            "text": " So guys, now we will make a small version of our big MP3 so that we can process it well."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 5.0,
+            "end": 8.0,
+            "text": " And after that I will tell you how you can chunk it."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 8.0,
+            "end": 10.0,
+            "text": " So here I simply did a Google search."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 10.0,
+            "end": 12.0,
+            "text": " I wrote extract first 10 seconds from MP3 FFMPEG."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 12.0,
+            "end": 13.0,
+            "text": " I got this command."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 13.0,
+            "end": 18.0,
+            "text": " Which takes an input MP3 and writes its initial 10 seconds in the output MP3."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 18.0,
+            "end": 19.0,
+            "text": " So I ran this command."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 19.0,
+            "end": 22.0,
+            "text": " And after running this command, I got a sample.mp3 which is only 10 seconds."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 22.0,
+            "end": 23.0,
+            "text": " Why did I take 10 seconds of MP3?"
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 23.0,
+            "end": 25.0,
+            "text": " So that 10 seconds of MP3 will be processed quickly."
+        },
+        {
+            "number": "sample",
+            "title": "sample",
+            "start": 25.0,
+            "end": 27.0,
+            "text": " And I will show you how to process it."
+        }
+    ],
+    "text": " So guys, now we will make a small version of our big MP3 so that we can process it well. And after that I will tell you how you can chunk it. So here I simply did a Google search. I wrote extract first 10 seconds from MP3 FFMPEG. I got this command. Which takes an input MP3 and writes its initial 10 seconds in the output MP3. So I ran this command. And after running this command, I got a sample.mp3 which is only 10 seconds. Why did I take 10 seconds of MP3? So that 10 seconds of MP3 will be processed quickly. And I will show you how to process it."
+}
