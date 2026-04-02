@@ -14,7 +14,7 @@ Use the file final_preprocessing to convert the json files to a dataframe with E
 ## Step 5 - Prompt generation and feeding to LLM
 Read the joblib file and load it into the memory. Then create a relevant prompt as per the user query and feed it to the LLM
 
-## Models for practice reference:
-You can also refer to the Ollama's GitHub: https://github.com/ollama/ollama/blob/main/docs/api.md  
+## Models I used for practice reference:
+You can also refer to the Ollama's GitHub for choosing your own preferred models: https://github.com/ollama/ollama/blob/main/docs/api.md  
 ### --> Model used for Embedding: mxbai-embed-large
 ### --> Model used for Inference: llama3.2
